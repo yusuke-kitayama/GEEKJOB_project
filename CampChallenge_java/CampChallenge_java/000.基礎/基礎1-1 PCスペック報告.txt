@@ -1,0 +1,6 @@
+PCスペック
+
+OS: Windows 10 64bit
+CPU:2.00Ghz
+メモリ:4.00GB
+HDD容量:197GB/232GB
